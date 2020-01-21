@@ -1,7 +1,6 @@
 name = Label Help
 description = Creates the help text directly below the label in form fields 
-core = 7.x
+backdrop = 1.x
+type = module
 
-; File registry
-files[] = label_help.module
-
+package = Fields
